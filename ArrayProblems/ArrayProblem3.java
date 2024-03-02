@@ -10,8 +10,7 @@ public class ArrayProblem3{
         while (i < len) { 
             if (arr[i] == t) { 
                 return i; 
-            } 
-            else { 
+            } else { 
                 i = i + 1; 
             } 
         } 
